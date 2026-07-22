@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/contact.html</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/gallery.html</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/sermons.html</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/ministries.html</loc>
+    </url>
+
+    <url>
+        <loc>https://phmhcc.github.io/PHM-HCC-Website/leadership.html</loc>
+    </url>
+
+</urlset>
